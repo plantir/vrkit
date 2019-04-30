@@ -1,0 +1,1 @@
+module.exports.area = readius => Math.PI * readius * readius
